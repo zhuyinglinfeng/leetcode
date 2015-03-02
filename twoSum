@@ -1,5 +1,4 @@
 # twoSum
-# twoSum
     public int[] twoSum(int[] numbers, int target) {
         int index[] = new int[2];
         Hashtable<Integer, Integer> nums = new Hashtable<Integer, Integer>();
